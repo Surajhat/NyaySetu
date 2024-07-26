@@ -1,0 +1,10 @@
+/* Homepage.css */
+
+/* Style for the container of the cards */
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  /* margin-top: 20px; */
+}
+
+/* Style for each individual card */
