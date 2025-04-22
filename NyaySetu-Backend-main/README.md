@@ -6,14 +6,6 @@ NyaySetu is a web application developed by Team NyaySetu during the Smart India 
 ![Nyaysetu chat demo in English](https://media.licdn.com/dms/image/D5622AQHDSc9cSvqgiQ/feedshare-shrink_2048_1536/0/1704569735637?e=1710374400&v=beta&t=AQ0JQs4kRa1Rn4497LSxOGIBjuwx3MLsGAAULdC_KaY)
 ![Nyaysetu chat demo in English](https://media.licdn.com/dms/image/D5622AQGb--ln1DFjLQ/feedshare-shrink_2048_1536/0/1704569736316?e=1710374400&v=beta&t=HIf5Srt-DJj5SGpVbMvUsHshKxC-0jtyLRyfz1AudrQ)
 
-## Team Members 👥
-- Chandan Mishra
-- Mayank Johari
-- Aman Gupta
-- Satvik Maheshwari
-- Somya Maheshwari
-- Shambhavi Rai
-
 ## Key Features 🔑
 - 🗣️ Voice assistant in multiple languages, catering to marginalized communities with limited literacy skills.
 - 🌐 Multilingual support for diverse user interactions.
